@@ -14,5 +14,5 @@ Sou um desenvolvedor com sólida atuação em dados sísmicos (Petrobras), autom
 - Estruturação de dados complexos (ex: sísmica, industriais, produtividade)
 
 📫 **Contato**  
-Você pode me encontrar via [LinkedIn](https://www.linkedin.com/in/malco-freitas) ou abrir uma issue por aqui mesmo no GitHub!
+Você pode me encontrar via [LinkedIn](https://www.linkedin.com/in/malcofreitas) ou abrir uma issue por aqui mesmo no GitHub!
 
